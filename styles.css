@@ -24,6 +24,15 @@ header {
     padding-left: 30px;
 }
 
+.chamada-texto img {
+    height: 100px;
+}
+
+h {
+    font-size: 40px;
+    color: white;
+}
+
 h1 {
     font-size: 30px;
     padding-left: 10px;
