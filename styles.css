@@ -20,7 +20,8 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    padding-right: 30px;
+    padding-left: 30px;
 }
 
 h1 {
