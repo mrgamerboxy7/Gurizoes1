@@ -34,7 +34,8 @@ p {
 }
 
 .videodisplay {
-    padding-right: 30px;
+    height: 200px;
+    padding-left: 30px;
 }
 
 img {
